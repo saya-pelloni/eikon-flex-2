@@ -54,6 +54,9 @@ background: plum;
 }
 
 /* 8. exercice-all-1 */
+.exercice-all-1 .container {
+  background: palevioletred;
+}
 
 
 /* 9. exercice-all-2 */
