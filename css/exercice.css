@@ -29,11 +29,16 @@ background: plum;
   background: plum;
   display: flex;
   flex-direction: row;
-  justify-content:  ;
+  align-items: flex-end;
 }
 
 /* 6. exercice-align-2 */
-
+.exercice-align-2 .container {
+  background: plum;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
 
 /* 7. exercice-align-3 */
 
