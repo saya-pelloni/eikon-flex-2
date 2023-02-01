@@ -22,8 +22,13 @@ background: plum;
 }
 
 /* 4. exercice-justify-3 */
-
-
+.exercice-justify-3  .container {
+  background-color: plum;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  justify-content: space-around;
+}
 /* 5. exercice-align-1 */
 .exercice-align-1 .container {
   background: plum;
