@@ -25,7 +25,12 @@ background: plum;
 
 
 /* 5. exercice-align-1 */
-
+.exercice-align-1 .container {
+  background: plum;
+  display: flex;
+  flex-direction: row;
+  justify-content:  ;
+}
 
 /* 6. exercice-align-2 */
 
